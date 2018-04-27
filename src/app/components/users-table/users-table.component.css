@@ -1,0 +1,9 @@
+
+.my-panel{
+    background-color: #bbb8b8;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
